@@ -1,0 +1,43 @@
+Designator,Val,Package,MidX,MidY,Rotation,Layer
+C1,1uF,C_0402_1005Metric,85.62,-96.55,180,top
+C2,0.1uF,C_0402_1005Metric,87.02,-93.45,180,top
+C3,0.1uF,C_0402_1005Metric,87.82,-97.55,180,top
+C4,0.1uF,C_0402_1005Metric,99.57,-93.05,0,top
+C5,0.1uF,C_0402_1005Metric,99.87,-97.95,0,top
+C6,0.1uF,C_0402_1005Metric,101.52,-92.6,0,top
+C7,0.1uF,C_0402_1005Metric,100.57,-99.1,0,top
+C8,0.1uF,C_0402_1005Metric,97.55,-91.13,90,top
+C9,0.1uF,C_0402_1005Metric,85.67,-97.8,180,top
+C10,1uF,C_0402_1005Metric,99.87,-96.9,0,top
+C11,0.1uF,C_0402_1005Metric,86.97,-92.35,180,top
+C12,0.1uF,C_0402_1005Metric,99.2,-91.95,0,top
+C13,10uF,C_0603_1608Metric,97.7,-76.45,0,top
+C14,10uF,C_0603_1608Metric,97.775,-84.2,0,top
+C15,33pF,C_0402_1005Metric,91.35,-105.63,90,top
+C16,33pF,C_0402_1005Metric,96.75,-105.63,90,top
+C17,0.1uF,C_0402_1005Metric,101.22,-94.05,180,top
+C18,10uF,C_0603_1608Metric,83.825,-76.5,0,top
+C19,10uF,C_0603_1608Metric,85.3,-83.2,0,top
+J2,Conn_01x20,PinHeader_1x20_P2.54mm_Vertical,79.76,-68.42,0,top
+J3,Conn_01x20,PinHeader_1x20_P2.54mm_Vertical,108.54,-68.42,0,top
+J4,Conn_01x03,PinHeader_1x03_P2.54mm_Vertical,80.12,-129.65,90,top
+R1,5.1k,R_0402_1005Metric,91.84,-75.95,180,top
+R2,5.1k,R_0402_1005Metric,86.15,-76.1,90,top
+R3,5.1k,R_0402_1005Metric,98.09,-68.2,0,top
+R4,27,R_0402_1005Metric,95.75,-90.9,90,top
+R5,27,R_0402_1005Metric,94.75,-90.92,90,top
+R6,1k,R_0402_1005Metric,95.09,-102.6,0,top
+R7,1k,R_0402_1005Metric,92.995,-83.345,0,top
+R8,10k,R_0402_1005Metric,90.51,-80,0,top
+R9,5.1k,R_0402_1005Metric,103.09,-70,0,top
+R11,470,R_0402_1005Metric,98.75,-116.65,0,top
+R12,10k,R_0402_1005Metric,103.14,-118.6,0,top
+RM2,RM2,RMC20452T,100.45,-128.6,180,top
+SW1,Button,SW_Push_SPST_NO_Alps_SKRK,103.35,-76.4,-90,top
+U1,RP2040,QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm,93.9125,-96.8,0,top
+U2,Flash Memory,Winbond_USON-8-1EP_3x2mm_P0.5mm_EP0.2x1.6mm,85.875,-87.3,180,top
+U3,Voltage Regulator,SOT-23,85.2,-79.8875,90,top
+U4,MCP1700x-330xxTT,SOT-23,97.9125,-80.25,90,top
+USB-C Plug,USB_C_Plug_USB2.0,USB_C_Plug_JAE_DX07P024AJ1,100.07,-65.0775,180,top
+USB-C Receptacle,USB_C_Receptacle_USB2.0_14P,USB_C_Receptacle_HRO_TYPE-C-31-M-12,88.13,-69.3,180,top
+Y1,Crystal,Crystal_SMD_3225-4Pin_3.2x2.5mm,94.15,-105.05,0,top
