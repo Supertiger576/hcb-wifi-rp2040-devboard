@@ -20,4 +20,4 @@ PCB:
 <img width="140" height="275" alt="image" src="https://github.com/user-attachments/assets/84652db1-636d-4fc3-a35b-9018f38a35e7" />
 
 
-Fabrication files are in the devboard folder
+Fabrication files are in the devboard folder.  These same files are zipped for import in devboard.zip.
