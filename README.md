@@ -1,4 +1,4 @@
-# RP2040 Devboard
+# Wireless RP2040 Devboard
 
 # About 
 An RP2040 devboard created with a guide from Hack Club.  It contains a very similar pinout to the Raspberry Pi Pico.  I added the Raspberry Pi RM2 to allow wireless capabilities.
